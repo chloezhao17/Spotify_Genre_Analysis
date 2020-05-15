@@ -11,7 +11,7 @@
 
 ## Project Description/Outline
 
-- We will be using Spotify's API to pull together a large/divers list of music spanning multiple genres, artists, and decades.
+- We will be using Spotify's API to pull together a large/diverse list of music spanning multiple genres, artists, and decades.
 - We will house said data in a PostgreSQL Database and develop a Flask App to link it to the Machine Learning Python code.
 - Using Machine learning, we will fit the data using a k-Nearest algorithm thgat will analyze the musicality of each song.
 - We will then graph our findings using Tableau.
