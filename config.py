@@ -1,5 +1,7 @@
-# Spotify API Key
-API_KEY = "<YOUR KEY HERE>"
+# Spotify API Stuff
+SPOTIFY_CLIENT_ID = ""
+SPOTIFY_CLIENT_SECRET = ""
+SPOTIFY_REDIRECT_URI = "http://127.0.0.1:5000/api/v1.0/callback"
 
 # AWS Database Information
 POSTGRES_USERNAME = "YOUR USER NAME"
