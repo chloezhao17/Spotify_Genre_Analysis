@@ -32,4 +32,3 @@ for index, row in df.iterrows():
     else:
         df[cat][index] = 0
 df.to_csv("FINAL_full_set_analysis.csv")
-
